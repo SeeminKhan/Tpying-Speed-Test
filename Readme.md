@@ -24,4 +24,4 @@ You need to have the following software installed on your system:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/typing-speed-test.git
+   git clone https://github.com/SeeminKhan/typing-speed-test.git
